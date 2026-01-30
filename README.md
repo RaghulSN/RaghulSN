@@ -36,9 +36,6 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghulsn&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="RaghulSN" />
-    </td>
-    <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghulSN&theme=dark&hide_border=true"
       alt="RaghulSN" />       </td>
   </tr>
