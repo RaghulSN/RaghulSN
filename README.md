@@ -8,7 +8,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Vujahday+Script&color=FF0000&size=35&height=60&lines=Welcome+to+Raghul's+Github+!)](https://git.io/typing-svg)
 </div>
 
-- Data Science Intern at iDatalytics
+
 - Interested in Problem Solving and Python.
 
 
