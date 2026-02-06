@@ -30,15 +30,3 @@
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=raghulsn&color=red)
-
-</div>
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghulSN&theme=dark&hide_border=true"
-      alt="RaghulSN" />       </td>
-  </tr>
-</table>
-
-<div align="center">
