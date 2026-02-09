@@ -16,7 +16,6 @@
 <p>
 <img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
 <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png"/>
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 </p>
 
 ## Connect with me:
